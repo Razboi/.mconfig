@@ -20,6 +20,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'morhetz/gruvbox'
 Plug 'scrooloose/nerdtree'
 Plug 'vim-airline/vim-airline'
+Plug 'leafgarland/typescript-vim'
 call plug#end()
 
 colorscheme gruvbox
