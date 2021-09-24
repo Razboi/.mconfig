@@ -28,6 +28,7 @@ Plug 'scrooloose/nerdcommenter'
 Plug 'preservim/nerdtree' |
             \ Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'mattn/emmet-vim' 
+Plug 'tpope/vim-sleuth'
 call plug#end()
 
 colorscheme gruvbox
